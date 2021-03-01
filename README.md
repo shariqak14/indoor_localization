@@ -10,7 +10,7 @@ The hypothesis was that additional ground-truth information about the inter-tag 
 - The three independent vendor provided X,Y readings from each tag
 - The average over 30 seconds from the combined information of all three tags
   
-While our proposal was superior to the first benchmark, it was not better than the second. This could be because:
+While this proposal was superior to the first benchmark, it was not better than the second. This could be because:
 - There are data points where a tag has better accuracy in one dimension but worse in the other
 - Reducing the data to eliminate noise was too simple given the two-dimensional nature of the data
 
