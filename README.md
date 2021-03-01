@@ -1,4 +1,5 @@
 #  Indoor Positioning Through Constraint Optimization
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 Fingerprinting is a well know method for improving indoor positioning. This method, however, requires a data collection process that includes physical measurement to determine ‘true’ locations. Taking physical measurements apriori is costly, time consuming, and in some cases, impossible. The intention of this project was to use a novel approach to determine highly accurate 'true' locations without physical measurement. This was done by adding a distance constraint to multiple tags which were moving simultaneously through the space. Using this known distance constraint, the aim was to test to what degree true position information could be determined even in the absence of physical measurements. 
 
